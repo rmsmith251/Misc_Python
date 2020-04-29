@@ -1,4 +1,5 @@
 # a simple PDF scraper using pyPDF2 and tkinter for the open/save functions.
+# opens up a file and outputs the scrape of every page on a new line in a CSV.
 # poorly commented... I'll work on that
 
 import PyPDF2
