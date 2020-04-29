@@ -1,4 +1,4 @@
-# When I downloaded pyPDF2 onto my machine, the FlateDecode class only had filterbytes to 2.
+# When I installed pyPDF2 on my machine, the FlateDecode class only had filterbytes to 2.
 # You may have to change the class to the below code if you get an error that the filterbytes has a value greater than 2.
 # It's probably best to do it regardless of whether or not you get the error.
 
