@@ -1,3 +1,3 @@
-# redesigned-eureka
+# Misc_Python
 
-# I'm new at this so this is just where I'll put my various projects until I learn to do this better.
+I'm new at this so this is just where I'll put my various projects until I learn to do this better.
