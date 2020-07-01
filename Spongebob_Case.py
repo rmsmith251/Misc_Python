@@ -3,7 +3,7 @@ def spongebob_case():
     string = input("Please enter desired text to be converted into Spongebob case.\n")
     length = len(string)
     newstring = ""
-    previous = 0
+    previous = ""
     for i in range(0, length):
         if string[i] == " " or string[i] in {"/", "'", ".", ","}:
             temp = string[i].upper()
