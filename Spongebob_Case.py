@@ -5,7 +5,7 @@ def spongebob_case():
     newstring = ""
     previous = ""
     for i in range(0, length):
-        if string[i] == " " or string[i] in {"/", "'", ".", ","}:
+        if string[i] == " " or string[i] in {"/", "'", ".", ",", "?", "!"}:
             temp = string[i].upper()
             newstring = newstring + temp
         elif i == 0 or previous == "lower":
